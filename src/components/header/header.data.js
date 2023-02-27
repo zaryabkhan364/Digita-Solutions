@@ -11,4 +11,12 @@ export default [
     path: 'testimonials',
     label: 'Testimonials',
   },
+  {
+    path: 'techStack',
+    label: 'Technologies',
+  },
+  {
+    path: 'process',
+    label: 'Process',
+  },
 ];

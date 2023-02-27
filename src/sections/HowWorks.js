@@ -31,7 +31,7 @@ const SERVICES_DATA = [
 
 const Services = () => {
   return (
-    <Box sx={styles.services} id="services">
+    <Box sx={styles.services} id="process">
       <Container>
         <BlockTitle
           // slogan="Our Services"
